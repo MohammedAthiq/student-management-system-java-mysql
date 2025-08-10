@@ -73,7 +73,7 @@ java -cp .;mysql-connector-j-9.3.0.jar StudentManagementSystem
 ## Screenshot
 
 ![Console Output Screenshot](screenshot.png)
-*Sample console output showing the "View Students" feature with two records displayed.*
+*Console output for the “View Students” feature displaying sample records.*
 
 ## License
 This project is licensed under the MIT License — see the `LICENSE` file for details (or add one).
